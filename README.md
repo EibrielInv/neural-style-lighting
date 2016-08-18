@@ -1,5 +1,7 @@
 # neural-style-lighting
-Neural Style Lighting for 3D software
+Neural Style Lighting for 3D software. The idea is to train values like light intensity, color and rotation.
+Right now the software compose a series of pictures (by simple addition) directly using TensorFlow.
+I can't make it work rendering on Blender because I can't generate a Gradient for that external operation.
 
 ## Installing
 Clone
