@@ -21,3 +21,35 @@ Run
 ```
 (venv) python neural-style-lighting.py
 ```
+
+## Pre rendered Lights
+
+Background:
+
+![](images/blender/background.png)
+
+Fill:
+
+![](images/blender/fill.png)
+
+Main:
+
+![](images/blender/main.png)
+
+Rim:
+
+![](images/blender/rim.png)
+
+World:
+
+![](images/blender/world.png)
+
+## Example images
+
+Content
+
+![](images/blender_content.png)
+
+Style
+
+![](images/blender_style.png)
